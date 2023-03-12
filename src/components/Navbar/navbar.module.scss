@@ -1,0 +1,26 @@
+.navBar_style {
+    border: solid 2px green;
+}
+
+.ul_style {
+    font-size: 20px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.divCarrito {
+    display: flex;
+
+}
+
+.iconoCarrito {
+    width: 35px;
+}
+
+.cantidadCarrito {
+    position: relative;
+    bottom: 10px;
+}

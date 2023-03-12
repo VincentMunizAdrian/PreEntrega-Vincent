@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Igualdad en unidades de medida 1rem = 10px */
+html {
+    font-size: 62.5%;
+}
